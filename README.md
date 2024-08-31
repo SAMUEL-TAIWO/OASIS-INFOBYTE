@@ -13,7 +13,7 @@ Welcome to my project repository for the August Phase 1 AICTE OIB-SIP 2024 inter
 
 ### 2. 🚗 Car Price Prediction
 - **Objective**: To predict the selling price of cars based on various features such as mileage, engine size, horsepower, and more.
-- **Methods Used**: Linear Regression, Random Forest, XGBoost.
+- **Methods Used**: Dicision Tree, Random Forest, XGBoost, KNN.
 - **Outcome**: Developed a model that accurately predicts car prices, with the log transformation applied to the target variable to handle skewness.
 
 ### 3. 💹 Sales Prediction
